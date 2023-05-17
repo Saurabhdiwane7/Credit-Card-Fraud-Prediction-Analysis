@@ -1,5 +1,9 @@
 # Credit-card-fraud-prediction-analysis
 Overview of the Code
+
+
+![credit_card_frauds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/credit-card-fraud.jpg)
+
 1. Exploratory Data Analysis
 
 ♦ Loading data
