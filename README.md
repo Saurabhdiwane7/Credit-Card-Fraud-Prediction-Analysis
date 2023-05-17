@@ -1,10 +1,10 @@
-# Credit-card-fraud-prediction-analysis
+# Credit-Card-Fraud-Prediction-Analysis
 Overview of the Code
 
 
 ![credit_card_frauds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/credit-card-fraud.jpg)
 
-1. Exploratory Data Analysis
+1. ## Exploratory Data Analysis
 
 ♦ Loading data
  
@@ -20,11 +20,11 @@ Overview of the Code
 
 ♦ Plotting count of fraud vs non-fraud transactions in a bar chart
 
-2. Data Processing
+2. ## Data Processing
 
 ♦ Plotting heatmap to find any high correlations between variables
 
-3. Model Building
+3. ## Model Building
 
 ♦ Drop the 'Class' column to prepare data for splitting
 
@@ -38,22 +38,22 @@ Overview of the Code
 
 ♦ Modeling Techniques
 
-1. Logistic Regression
+1. ## Logistic Regression
 
 ♦ Calculated Precision score,recall score,F1 scores of the datasets
 
-2. Ensemble Techniques
+2. ## Ensemble Techniques
 
-♦ XG Boost classifer 
+♦ ## XG Boost classifer 
 
-4.Decision Tree
-
-♦ Calculated Precision score,recall score,F1 scores of the datasets
-
-4. Rabdom Forest
+4.## Decision Tree
 
 ♦ Calculated Precision score,recall score,F1 scores of the datasets
 
-5.References
+4. ## Random Forest
+
+♦ Calculated Precision score,recall score,F1 scores of the datasets
+
+5. ## References
 
 Kaggle Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
